@@ -1,5 +1,5 @@
 numpy
-pickle
+pickleshare
 streamlit
 pandas
 seaborn
